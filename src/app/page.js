@@ -102,6 +102,7 @@ export default function Home({ config }) {
               id="search-box"
               className="search-box"
               type="text"
+              placeholder="Just enter player name..."
               onChange={processChange.bind(this)}
             />
           </Card>
