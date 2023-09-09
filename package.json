@@ -29,5 +29,9 @@
     "styled-components": "^5.3.11",
     "tailwindcss": "3.3.3",
     "use-google-sheets": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.6.0",
+    "typescript": "5.2.2"
   }
 }

@@ -36,20 +36,14 @@ export default function Home({ config }) {
           ) {
             const playerLocal = player;
             let coms = "";
-            if (playerLocal["Commander 1"]) {
-              coms += playerLocal["Commander 1"];
 
-              if (playerLocal["Commander 2"]) {
-                coms += " " + playerLocal["Commander 2"];
+            for (let index = 1; index < 10; index++) {
+              const currentColumn = `Commander ${index}`;
+              if (playerLocal[currentColumn]) {
+                coms += `${playerLocal[currentColumn]} `;
               }
-
-              if (playerLocal["Commander 3"]) {
-                coms += " " + playerLocal["Commander 3"];
-              }
-
-              if (playerLocal["Commander 4"]) {
-                coms += " " + playerLocal["Commander 4"];
-              }
+            }
+            if (coms !== "") {
               result.push({
                 name: currentPlayerName,
                 coms,
