@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+html {
+  background: url(/background.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+}
+
+.search-box {
+  color: black;
+  width: 100%;
+  border: 1rem black solid;
+  height: 80px;
+  padding: 10px;
+}
+
+.enemy-list li {
+  border: 1rem black solid;
+  padding: 10px;
+}
+
+.enemy-text-right {
+  float: right;
+}
+
+.enemy-tracker {
+  padding: 20px;
+}
+
+h1 {
+  display: block;
+  font-size: 1.2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 25px;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+.search-box {
+  font-size: large;
+  font-weight: bolder;
+}

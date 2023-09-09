@@ -1,0 +1,915 @@
+{
+    "RACC": {
+      "Adra stark": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 0,
+        "Notes": null
+      },
+      "aRowdyKenz": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": "Madness purple"
+      },
+      "Barracuda The Black": {
+        "Commander 1": "GTG",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "BenjenDou": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Bill Bo": {
+        "Commander 1": "Sunind",
+        "Commander 2": "Gil Galad",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Bub the wisest fool in Racc": {
+        "Commander 1": "Boromir",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "Unique"
+      },
+      "Budsfan the Lionhearth": {
+        "Commander 1": "GTW",
+        "Commander 2": "Sunind",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "Aegis 80%"
+      },
+      "caparollaAmleida": {
+        "Commander 1": "Isildur",
+        "Commander 2": "GTG",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Coco": {
+        "Commander 1": "GTG",
+        "Commander 2": "Arwen",
+        "Commander 3": "GTW",
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "Daemon Millgaryan": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": "Frenzy hammer barad dur drums"
+      },
+      "Danico9": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Delastevo": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Demon Wizard": {
+        "Commander 1": "Dwalin",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Dreadshane": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Dreamzilla": {
+        "Commander 1": "Sunind",
+        "Commander 2": "Khaldoon",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "DrHilti": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "Aegis 80%"
+      },
+      "Elrae": {
+        "Commander 1": "Sunind",
+        "Commander 2": "GTG",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Eni": {
+        "Commander 1": "GTW",
+        "Commander 2": "Dain",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": "Fortitude wiz hat and bp , mearas with 5/5 unit \nsuply"
+      },
+      "EternityRising": {
+        "Commander 1": "Sauron",
+        "Commander 2": "Khaldoon",
+        "Commander 3": "Sunind",
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Feo": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "casque melee surpression frenzy hammer\nsignet of barrows"
+      },
+      "Fish Wizard": {
+        "Commander 1": "Sauron",
+        "Commander 2": "Sunind",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 5,
+        "Notes": "All 5/5 on all heroes mega whale avoid :D"
+      },
+      "Forte": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Gianna": {
+        "Commander 1": "GTW",
+        "Commander 2": "WK",
+        "Commander 3": "Sunind",
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": "Casque aegis 80%"
+      },
+      "Gollum": {
+        "Commander 1": "Sauron",
+        "Commander 2": "Sunind",
+        "Commander 3": "Gil Galad",
+        "Commander 4": null,
+        "Gear Rating (0-5)": 5,
+        "Notes": "All 5/5 on all heroes mega whale avoid :D"
+      },
+      "Gu Wizard": {
+        "Commander 1": "Thorin",
+        "Commander 2": "Elrond",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 5,
+        "Notes": null
+      },
+      "Harbringer": {
+        "Commander 1": "GTW",
+        "Commander 2": "Sunind",
+        "Commander 3": "WK",
+        "Commander 4": "Khaldoon",
+        "Gear Rating (0-5)": 3,
+        "Notes": "Casque aegis 100% max strength unique"
+      },
+      "High sparrow Neriak": {
+        "Commander 1": "Sunind",
+        "Commander 2": "Khaldoon",
+        "Commander 3": "WK",
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": "accelerate reckoning, tac mark"
+      },
+      "Holy Cirsei": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": "Kirun",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Jorah Raccmont the SugarDaddy": {
+        "Commander 1": "Sauron",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Karmallama": {
+        "Commander 1": "Dwalin",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "Khal Drogo": {
+        "Commander 1": "Gil Galad",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": "Discord"
+      },
+      "Khal Marcz": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": "Casque aegis"
+      },
+      "Kharl Marcz": {
+        "Commander 1": "Radagast",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "KPB": {
+        "Commander 1": "Aragorn",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Krynn ": {
+        "Commander 1": "GTW",
+        "Commander 2": "Gil Galad",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "Discord helm (madness) 80% white knife \nmax refined"
+      },
+      "Lord Mercurion": {
+        "Commander 1": "WK",
+        "Commander 2": "Sunind",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "tac mark"
+      },
+      "Lord Pizza the Pieus": {
+        "Commander 1": "Dwalin",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Lucidfer": {
+        "Commander 1": "Sunind",
+        "Commander 2": "Sauron",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": "Aegis 100%"
+      },
+      "ManeSyraccx": {
+        "Commander 1": "Sunind",
+        "Commander 2": "Khaldoon",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": "Nothing special mid sunind"
+      },
+      "Mewtwo": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": "Shadow",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 5,
+        "Notes": null
+      },
+      "Milo": {
+        "Commander 1": "GTW",
+        "Commander 2": "WK",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Mysterious Shinigami": {
+        "Commander 1": "GTW",
+        "Commander 2": "WK",
+        "Commander 3": "Sunind",
+        "Commander 4": "Khaldoon",
+        "Gear Rating (0-5)": 3,
+        "Notes": "Burn prot"
+      },
+      "NazRaccguler": {
+        "Commander 1": "Qurwan",
+        "Commander 2": "WK",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "NE Raccmans": {
+        "Commander 1": "Sunind",
+        "Commander 2": "Sauron",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": "100% hunters aegis, no special sauron"
+      },
+      "Nellie": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "Discord 80%"
+      },
+      "Novalak": {
+        "Commander 1": "Dwalin",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Okun the blue": {
+        "Commander 1": "KOM",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Petyr racclish LF": {
+        "Commander 1": "GTW",
+        "Commander 2": "Gimli",
+        "Commander 3": "Khaldoon",
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": "wiz hat tranq crit care pipe 5/5, gimli unique and \ngold gear 5/5"
+      },
+      "Possum Shadefur": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "mid khal"
+      },
+      "Rain wizard": {
+        "Commander 1": "Sauron",
+        "Commander 2": "GTW",
+        "Commander 3": "Sunind",
+        "Commander 4": null,
+        "Gear Rating (0-5)": 5,
+        "Notes": null
+      },
+      "RAINyra RACCgaryen": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": "Mid suind with purple madness"
+      },
+      "Ravnsa": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": "Grima",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": "Tranquil grima, \nKhaldoon with signet of barrows, \ntac maneuvers and frenzy hammer"
+      },
+      "Sairaccx": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "casque fortitude of soldiers frenzy hammer\nsignet of barrows"
+      },
+      "Sandman": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Sandor Raccgane": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "Saucei Cannister": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Sir Janson II": {
+        "Commander 1": "Sauron",
+        "Commander 2": "Khaldoon",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "SonicBoom": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Tata": {
+        "Commander 1": "Dwalin",
+        "Commander 2": "GTW",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "The hood wizard": {
+        "Commander 1": "Gil Galad",
+        "Commander 2": "GTG",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "Aegis 100%"
+      },
+      "The racc king": {
+        "Commander 1": "MOS",
+        "Commander 2": "Kirun",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "The Zup that...": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": "Frenzy hammer, signet barrows  tac manuver"
+      },
+      "Usurper": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": "purple"
+      },
+      "Vadzilla": {
+        "Commander 1": "Dwalin",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Vengefuldemon": {
+        "Commander 1": "Arwen",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Xam Wizard": {
+        "Commander 1": "GTG",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Yanacsil": {
+        "Commander 1": "Sauron",
+        "Commander 2": "Sunind",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "Sauron unique"
+      },
+      "Yobberyn": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Yoloberyn": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "zXDarkxMagicianXz": {
+        "Commander 1": "Sauron",
+        "Commander 2": "WK",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "Tac mark 2.8"
+      },
+      "Baller": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      }
+    },
+    "FEAR": {
+      "Abbe": {
+        "Commander 1": "Elrond",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "AbbesForgottenHelmet": {
+        "Commander 1": "GTW",
+        "Commander 2": "Arwen",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Ambs says Howdy": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "Arya stormborn": {
+        "Commander 1": "GTW",
+        "Commander 2": "Theoden",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "Cali": {
+        "Commander 1": "Dwalin",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Chris Soerenson": {
+        "Commander 1": "GTG",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Danothin": {
+        "Commander 1": "Dain",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Elden is SpiderMan": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Fritz": {
+        "Commander 1": "GTG",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "Ghost Rider": {
+        "Commander 1": "Radagast",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Gregor": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Ironman": {
+        "Commander 1": "Oglurg",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "LOKIislandboii": {
+        "Commander 1": "GTG",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Lord Trendriel": {
+        "Commander 1": "Boromir",
+        "Commander 2": "KOM",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "MahIslandBoii": {
+        "Commander 1": "GTG",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "mastercheif17": {
+        "Commander 1": "Faramir",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Mike": {
+        "Commander 1": "Eyowyn",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 1,
+        "Notes": null
+      },
+      "muydiablo": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Mystique": {
+        "Commander 1": "Khaldoon",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "NoCure": {
+        "Commander 1": "Theoden",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Oakbeach": {
+        "Commander 1": "WK",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "Oswald Cobblepot": {
+        "Commander 1": "Radagast",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Perdido": {
+        "Commander 1": "Faramir",
+        "Commander 2": "GTG",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Philbo": {
+        "Commander 1": "WK",
+        "Commander 2": "Sunind",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "RocketRacoon": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 0,
+        "Notes": null
+      },
+      "Sederman": {
+        "Commander 1": "GTG",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "ShortyS00": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "SKSSoK": {
+        "Commander 1": "Sunind",
+        "Commander 2": "Gil Galad",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": "Aegis 100% rest purple"
+      },
+      "Sok": {
+        "Commander 1": "Sunind",
+        "Commander 2": "GTW",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "SONGOKU": {
+        "Commander 1": "KOM",
+        "Commander 2": "WK",
+        "Commander 3": "GTG",
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "starring tom cruise....": {
+        "Commander 1": "WK",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 1,
+        "Notes": null
+      },
+      "STORM aka Lucca": {
+        "Commander 1": "Eyowyn",
+        "Commander 2": "GTG",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "Superman": {
+        "Commander 1": "Isildur",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Tar Anarion": {
+        "Commander 1": "Sunind",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Telperion": {
+        "Commander 1": "Sunind",
+        "Commander 2": "WK",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Theoden": {
+        "Commander 1": "Theoden",
+        "Commander 2": "GTG",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 1,
+        "Notes": null
+      },
+      "Titi": {
+        "Commander 1": "GTG",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "Walrus the strange": {
+        "Commander 1": "WK",
+        "Commander 2": "GTG",
+        "Commander 3": "MoS",
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      },
+      "Walt": {
+        "Commander 1": "Sunind",
+        "Commander 2": "Sauron",
+        "Commander 3": "GTG",
+        "Commander 4": "Grima",
+        "Gear Rating (0-5)": 4,
+        "Notes": null
+      },
+      "Wanderer": {
+        "Commander 1": "Sauron",
+        "Commander 2": "GTG",
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 3,
+        "Notes": null
+      },
+      "Wolr": {
+        "Commander 1": "Kirun",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 2,
+        "Notes": null
+      }
+    },
+    "IMOR": {
+      "Tasks Adun": {
+        "Commander 1": "GTW",
+        "Commander 2": null,
+        "Commander 3": null,
+        "Commander 4": null,
+        "Gear Rating (0-5)": 5,
+        "Notes": "Mega whale"
+      }
+    },
+    "LAME": {},
+    "NUGU": {},
+    "LEGE": {}
+  }
