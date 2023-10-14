@@ -75,10 +75,9 @@ jobs:
         run: |
           git config --global user.email "pipeline@test.com"
           git config --global user.name "Pipeline bump version"
+          npm version patch --no-git-tag-version
           git add .
-          git commit -m fix
-          npm version patch
-          git add .
+          git commit -m bump
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
