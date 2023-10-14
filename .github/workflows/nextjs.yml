@@ -14,7 +14,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -79,7 +79,7 @@ jobs:
           git commit -m fix
           npm version patch
           git add .
-          git remote set-url --push origin https://your_username:$GITHUB_TOKEN@github.com/your/repo
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
