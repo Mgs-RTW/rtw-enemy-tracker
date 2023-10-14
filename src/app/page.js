@@ -72,6 +72,7 @@ export default function Home({ config }) {
       <main className="flex min-h-screen flex-col items-center p-5">
         <Image
           src="/mg.png"
+          priority={true}
           width={250}
           height={250}
           alt="Picture of the author"
