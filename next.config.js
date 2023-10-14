@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {
-    serverActions: false,
+  basePath: "/rtw-enemy-tracker",experimental: {
+    images: {unoptimized: true},serverActions: false,
   },
   output: "export",
   images: { unoptimized: true },
