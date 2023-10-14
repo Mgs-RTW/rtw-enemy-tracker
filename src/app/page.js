@@ -118,6 +118,7 @@ export default function Home({ config }) {
                     </span>
                     <br></br>
                     Commanders:
+                    <br></br>
                     <span className="enemy-text-right">
                       <b> {enemy.coms}</b>
                     </span>
