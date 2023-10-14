@@ -79,7 +79,10 @@ jobs:
           git commit -m fix
           npm version patch
           git add .
-          git push
+          git remote set-url --push origin https://your_username:$GITHUB_TOKEN@github.com/your/repo
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       - name: Build with Next.js
