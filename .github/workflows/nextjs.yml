@@ -73,6 +73,8 @@ jobs:
             ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json', '**/yarn.lock') }}-
       - name: Install dependencies
         run: |
+          git config --global user.email "pipeline@test.com"
+          git config --global user.name "Pipeline bump version"
           git add .
           git commit -m fix
           npm version patch
