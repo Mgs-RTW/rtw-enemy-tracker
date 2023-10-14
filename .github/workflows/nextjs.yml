@@ -74,6 +74,7 @@ jobs:
       - name: Install dependencies
         run: |
           git add .
+          git commit -m fix
           npm version patch
           git add .
           git push
