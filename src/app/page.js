@@ -8,6 +8,8 @@ import ClipLoader from "react-spinners/ClipLoader";
 import { useState } from "react";
 import Image from "next/image";
 import packageJson from "/package.json";
+import mg from "./mg.svg";
+import { ReactComponent as ReactLogo } from "./mg.svg";
 
 const override = {
   display: "block",
@@ -70,13 +72,7 @@ export default function Home({ config }) {
   if (loading) {
     return (
       <main className="flex min-h-screen flex-col items-center p-5">
-        <Image
-          src="/mg.png"
-        
-          width={250}
-          height={250}
-          alt="Picture of the author"
-        />
+        <Image src={mg} width={250} height={250} alt="Lord" />
         <label> Current version : {packageJson.version}</label>
         <ClipLoader
           color={color}
@@ -91,7 +87,7 @@ export default function Home({ config }) {
   } else {
     return (
       <main className="flex min-h-screen flex-col items-center enemy-tracker">
-        <Image src="/mg.png" width={250} height={250} alt="Lord" />
+        <Image src={mg} width={250} height={250} alt="Lord" />
         <label> Current version : {packageJson.version}</label>
         <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
           <Card sx={{ minWidth: 275 }}>
